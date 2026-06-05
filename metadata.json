@@ -1,0 +1,8 @@
+{
+  "name": "Sentient Sculpture Audio Interface",
+  "description": "A minimalist, browser-based audio interface designed for an interactive sculpture. It uses Gemini Live for real-time, low-latency conversation and features an idle mode for gallery settings.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
